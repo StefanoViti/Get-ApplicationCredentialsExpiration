@@ -5,3 +5,7 @@ This script retrieves the expiration date of credentials (secrets or certificate
 
 Written by: Stefano Viti - stefano.viti1995@gmail.com
 Follow me at https://www.linkedin.com/in/stefano-viti/
+
+This script is a follow-up of the work made and presented here:
+- https://github.com/bwya77/PSAlerts/tree/main/Azure
+- https://www.thelazyadministrator.com/2023/12/16/automated-alerts-on-azure-entra-id-application-secret-expirations/
